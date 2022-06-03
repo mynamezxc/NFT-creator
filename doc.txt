@@ -1,0 +1,19 @@
+# Allright reserved by Mynamezxc
+
+# Goto alchemyapi.io and make an application "testnet rinkeby"
+
+# Upload image file to pinata ipfs
++ get CID and edit your ipfs link from nft-metadata.json
++ upload nft-metadata.json to pinata
++ get CID and link of json and use Mint() function
+
+# Compile sol
+npx hardhat compile
+
+# Deploy in "rinkeby" network (config in hardhat.config.js)
+npx hardhat run scripts/deploy.js --network rinkeby
+
+# Replace the contractAddress with new deployed address
+
+# Min NFT
+node scripts/mint-nft.

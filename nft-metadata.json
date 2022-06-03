@@ -1,0 +1,42 @@
+{
+    "name": "Demo NFT by Nguyen Hoang",
+    "description" : "This is a demo description for Nguyen Hoang NFT's",
+    "image" : "ipfs://QmeQiduSNPC5Hfvi5JvVU2p51yeBuipWfRWRjsQy1pAfzZ",
+    "photographer" : "Sông Đuống",
+    "external_link": "https://fb.com/mynamezxc",
+    "background_color": "000000",
+    "attributes": [
+        {
+            "display_type": "date", 
+            "trait_type": "Created at", 
+            "value": 1649403617
+        },
+        {
+            "trait_type": "Tổng số mẫu in", 
+            "value": 15
+        },
+        {
+          "trait_type": "Loại tranh", 
+          "value": "Phong cảnh"
+        },
+        {
+            "trait_type": "Tình trạng", 
+            "value": "New stock"
+        }, 
+        {
+            "display_type": "boost_number", 
+            "trait_type": "Aqua Power", 
+            "value": 40
+        }, 
+        {
+            "display_type": "boost_percentage", 
+            "trait_type": "Độ chính xác", 
+            "value": 10
+        }, 
+        {
+            "display_type": "number", 
+            "trait_type": "Art version", 
+            "value": 2
+        }
+    ]
+}
