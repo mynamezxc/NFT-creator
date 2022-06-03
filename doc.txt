@@ -1,5 +1,7 @@
 # Allright reserved by Mynamezxc
 
+# Configure .env into your wallet
+
 # Goto alchemyapi.io and make an application "testnet rinkeby"
 
 # Upload image file to pinata ipfs
